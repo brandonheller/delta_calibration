@@ -1,0 +1,7 @@
+To run these scripts, you must have Matplotlib installed.
+
+To generate outputs, run each script:
+./plot_error.py
+./plot_max_error.py
+
+... then look for generated png files.
